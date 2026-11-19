@@ -74,3 +74,5 @@ A | B | A XOR B
 # Ejemplo de emoji
 
 :+1: :blush: :sleeping: :sunglasses:
+
+### Y eso es todo, amigos!
