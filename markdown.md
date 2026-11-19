@@ -12,3 +12,10 @@ Esto es texto normal
 
 Un ejemplo de negrilla con cursiva
 Este es un _**Ejemplo**_
+
+# Ejemplo de listas con viñetas: Lista de colores
+
+*Amarillo
+*Azul
+*Rojo
+*Verde
