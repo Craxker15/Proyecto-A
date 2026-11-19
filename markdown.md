@@ -70,3 +70,7 @@ A | B | A XOR B
 1 | 1 | 0
 1 | 0 | 1
 0 | 1 | 1
+
+# Ejemplo de emoji
+
+:+1: :blush: :sleeping: :sunglasses:
