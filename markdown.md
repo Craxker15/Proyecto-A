@@ -36,3 +36,11 @@ Este es un _**Ejemplo**_
   * Europa
   * Io
   
+# Ejemplo de una checklis: Obtener el paasporte
+
+- [ ] Sacar la cita
+- [ ] Pagar los derechos
+- [ ] Asistir a la cita y tomarse la foto
+- [ ] Esperar a que salga el pasaporte
+#
+
