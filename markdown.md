@@ -15,7 +15,7 @@ Este es un _**Ejemplo**_
 
 # Ejemplo de listas con viñetas: Lista de colores
 
-*Amarillo
-*Azul
-*Rojo
-*Verde
+* Amarillo
+* Azul
+* Rojo
+* Verde
