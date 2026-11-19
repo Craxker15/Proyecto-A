@@ -62,3 +62,11 @@ Codigo en Poershell
 ```powershell
 remove-Item  -Recurse hola.txt
 ```
+
+# Ejemlpo de tabla> Tabla de verdad del XOR
+
+A | B | A XOR B
+--|---|--------
+1 | 1 | 0
+1 | 0 | 1
+0 | 1 | 1
