@@ -42,5 +42,10 @@ Este es un _**Ejemplo**_
 - [x] Pagar los derechos
 - [x] Asistir a la cita y tomarse la foto
 - [ ] Esperar a que salga el pasaporte
-#
 
+# Ejemplo de citacion
+
+Mis estudiantes dijeron:
+> Profe, ya compro GTA VI?
+> Porque no?
+> Si es un juego buenísimo!!
