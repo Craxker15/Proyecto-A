@@ -19,3 +19,10 @@ Este es un _**Ejemplo**_
 * Azul
 * Rojo
 * Verde
+
+# Ejemplo de una lista numerada: Pilotos de F1
+
+1. Kimi Antonelli
+2. Max Verstappen
+3. Fernando Alonso
+4. Charles LeClerc
